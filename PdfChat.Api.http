@@ -1,0 +1,6 @@
+@PdfChat.Api_HostAddress = http://localhost:5119
+
+GET {{PdfChat.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
